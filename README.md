@@ -33,7 +33,7 @@ https://quotenjoke.herokuapp.com/joke
 
 Returns a single random joke
 
-# Project Status
+## Project Status
 
 - **Development** **:** ✅
 
