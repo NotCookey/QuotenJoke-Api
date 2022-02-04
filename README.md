@@ -5,7 +5,7 @@
 
 | Name       | URL                 | Description                                                                                                                                                                                                        |
 | :--------- | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Production | quotenjoke.herokuapp.com     | The public API server for generating random Quote & Jokes Using Different Routes                                                                                                                                                                                            |
+| Production | quotenjoke.vercel.app     | The public API server for generating random Quote & Jokes Using Different Routes                                                                                                                                                                                            |
 ## API Reference <!-- omit in toc -->
 
 - [Get Random Quote](#get-random-quote)
@@ -17,7 +17,7 @@
 GET /quote
 ```
 ```
-https://quotenjoke.herokuapp.com/quote
+https://quotenjoke.vercel.app/quote
 ```
 
 Returns a single random quote
@@ -28,7 +28,7 @@ Returns a single random quote
 GET /joke
 ```
 ```
-https://quotenjoke.herokuapp.com/joke
+https://quotenjoke.vercel.app/joke
 ```
 
 Returns a single random joke
