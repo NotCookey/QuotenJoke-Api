@@ -37,4 +37,4 @@ Returns a single random joke
 
 - **Development** **:** ✅
 
-> **Developed And Maintained By SecretsX**
+> **Developed And Maintained By NotCookey**
