@@ -5,7 +5,7 @@
 
 | Name       | URL                 | Description                                                                                                                                                                                                        |
 | :--------- | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Production | quotenjoke.vercel.app     | The public API server for generating random Quote & Jokes Using Different Routes                                                                                                                                                                                            |
+| Production | https://quotenjoke.onrender.com     | The public API server for generating random Quote & Jokes Using Different Routes                                                                                                                                                                                            |
 ## API Reference <!-- omit in toc -->
 
 - [Get Random Quote](#get-random-quote)
