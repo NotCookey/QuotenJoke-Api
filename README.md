@@ -17,7 +17,7 @@
 GET /quote
 ```
 ```
-https://quotenjoke.vercel.app/quote
+https://quotenjoke.onrender.com/quote
 ```
 
 Returns a single random quote
@@ -28,7 +28,7 @@ Returns a single random quote
 GET /joke
 ```
 ```
-https://quotenjoke.vercel.app/joke
+https://quotenjoke.onrender.com/joke
 ```
 
 Returns a single random joke
